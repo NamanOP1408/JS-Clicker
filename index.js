@@ -8,6 +8,6 @@ function increment(){
 }
 
 function reset(){
-    document.getElementById("count-el").innerText = 0;
+    document.getElementById("count-el").innerText = "0";
     count = 0;
 }
